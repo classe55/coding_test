@@ -1,2 +1,2 @@
 # coding_test
-coding test prac repo
+coding test 연습 공간입니다. 
